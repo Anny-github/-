@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E075D6923C6EA2089A5277F2BF1D09CF584E489D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "06b2b10f-df93-45d4-9091-da7ea88e9ec9++5794" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E075D6923C6EA2089A5277F2BF1D09CF584E489D" : 9223372036854775807,
+    "06b2b10f-df93-45d4-9091-da7ea88e9ec9++5794" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E7147FA3-D2C4-495A-B5CB-616A78C717A2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E075D6923C6EA2089A5277F2BF1D09CF584E489D" : "few\/",
+    "06b2b10f-df93-45d4-9091-da7ea88e9ec9++5794" : "few\/few\/image\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "few",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "few.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.118",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06b2b10f-df93-45d4-9091-da7ea88e9ec9++5794"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/test.yingshibao.com:8889\/Juniorchen\/YingShiBao.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E075D6923C6EA2089A5277F2BF1D09CF584E489D"
+    }
+  ]
+}
